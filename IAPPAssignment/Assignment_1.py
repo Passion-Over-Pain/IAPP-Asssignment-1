@@ -1,4 +1,5 @@
-
+#227284240 - Tinotenda Mhedziso
+#227001656 - Jasmin Storm
 stock_codes = []
 stock_prices = []
 stock_items = []
