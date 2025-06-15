@@ -1,4 +1,5 @@
-# IAPP Assignment 1 – Inventory Management System
+# Applied Programming Assignment 1 – Inventory Management System
+![chest](https://github.com/user-attachments/assets/d20958cd-24b6-4ecc-939f-8073c204209b)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
